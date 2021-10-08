@@ -1,0 +1,7 @@
+{
+    "username": "填自己的账号",
+    "password": "填自己的密码",
+    "genres": ["大数据", "机器人", "物联网", "显示技术", "移动终端"],
+    "max_check_pages": 60,
+    "browser_visible": true
+}

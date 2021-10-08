@@ -1,0 +1,2 @@
+drop table crawled_patents;
+create table crawled_patents(id integer primary key, patent_id text not null, article text not null, abstract text not null);
